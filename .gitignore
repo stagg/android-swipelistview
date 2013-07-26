@@ -1,8 +1,6 @@
 target/
-/*.iml
-.idea/
-.DS_Store
 *.properties
+
 *.class
 *.jar
 bin/*
@@ -11,4 +9,3 @@ bin/*
 .settings/*
 gen/*
 lint.xml
-
